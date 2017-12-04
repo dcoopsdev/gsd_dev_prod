@@ -1,0 +1,8 @@
+{
+    "sendgrid_email_host": "smtp.sendgrid.net",
+    "sendgrid_email_port": 587,
+    "sendgrid_email_host_user": "dcoopsmailsend",
+    "sendgrid_email_host_password": "2s3enochemicalspoint",
+    "sendgrid_email_use_tls": true,
+    "default_from_email": "admin@gsd-easy.com"
+}
